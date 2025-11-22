@@ -43,6 +43,13 @@ export default function Header() {
                 Sobre Mí
               </Link>
             </li>
+
+            <li>
+  <Link href="/contact" className="text-gray-700 hover:text-blue-600 transition">
+    Contacto
+  </Link>
+</li>
+
           </ul>
 
         </div>
